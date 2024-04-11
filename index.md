@@ -4,24 +4,19 @@ layout: page
 
 # About Me
 
-Here is **Chen Luo**.
+Here is **Chen Zihan**.
 
 ## Academic Background
 
-- Sep 2022 - Present：Sichuan University(Graduate Studies)
-- **June 2018 - Nov 2022:** Sichuan University(Bachelor's Degree)
+- Sep 2021 - Present：Sichuan University(Graduate Studies)
+- **Sep 2017 - June 2021:** Sichuan University(Bachelor's Degree)
 
 ---
 
 ## Research Interests
 
 - Computer Vision
-- Object Detection
-- Multiple Object Track
+- I2I translation
 
-## email 
-- 1127793799@qq.com
 
-## papers
-- A Dynamic Label Assignment Strategy for One-Stage Detectors. Neurocomputing, 2024
 
